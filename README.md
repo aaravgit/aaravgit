@@ -53,11 +53,11 @@ Feel free to reach out to me via:
 
 ## 🛡 Badges
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)  
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-/-0.25-green)](https://scikit-learn.org/)  
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)  
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-/-2.x-red)](https://pytorch.org/)  
-[![Pandas](https://img.shields.io/badge/Pandas-data-analysis-/-manipulation-blueviolet)](https://pandas.pydata.org/)  
-[![Git](https://img.shields.io/badge/Git-version_control-/-collaboration-black)](https://git-scm.com/)  
+[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-/-0.25-green)](https://scikit-learn.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-/-2.x-red)](https://pytorch.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-data-analysis-/-manipulation-blueviolet)](https://pandas.pydata.org/)
+[![Git](https://img.shields.io/badge/Git-version_control-/-collaboration-black)](https://git-scm.com/)
 
 ---

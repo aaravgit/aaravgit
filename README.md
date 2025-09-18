@@ -46,8 +46,8 @@
 
 Feel free to reach out to me via:  
 - **LinkedIn**: [Aarav Sharma](https://www.linkedin.com/in/aarav-sharma-a78413320/)  
-- **Email**: *your-email@example.com*  
-- **GitHub**: *your-github-username*
+- **Email**: *aaravsh241@gmail.com*  
+- **GitHub**: *aaravgit*
 
 ---
 

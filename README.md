@@ -4,10 +4,10 @@
 
 | Category | Skills |
 |----------|--------|
-| Programming & Tools | Python · R · SQL · Git · Docker |
+| Programming & Tools | Python · SQL · Git · Docker |
 | ML / DL Frameworks | scikit-learn · TensorFlow / Keras · PyTorch · XGBoost |
-| Data Processing & Visualization | Pandas · NumPy · Matplotlib · Seaborn · Plotly |
-| Big Data & Cloud | (if applicable: e.g. AWS / GCP / Azure / Hadoop / Spark) |
+| Data Processing & Visualization | Pandas · NumPy · Matplotlib · Seaborn |
+| Big Data & Cloud | (if applicable: e.g. GCP / Spark) |
 | Others | (e.g. version control, APIs, etc.) |
 
 ---

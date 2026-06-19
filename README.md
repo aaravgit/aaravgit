@@ -1,63 +1,37 @@
 ## 🛠 Skills
-
-> *These are some of my key technical skills*
-
 | Category | Skills |
 |----------|--------|
 | Programming & Tools | Python · SQL · Git · Docker |
+| Backend & APIs | FastAPI · REST APIs · WebSockets |
+| Frontend | Next.js · React · Tailwind CSS |
 | ML / DL Frameworks | scikit-learn · TensorFlow / Keras · PyTorch · XGBoost |
 | Data Processing & Visualization | Pandas · NumPy · Matplotlib · Seaborn |
-| Big Data & Cloud | (if applicable: e.g. GCP / Spark) |
-| Others | (e.g. version control, APIs, etc.) |
 
 ---
 
 ## 🔍 Projects
 
-### **Project Samudra Sachet**  
+### **Project Samudra Sachet**
 *Integrated Platform for Crowdsourced Ocean Hazard Reporting and Social Media Analytics*
-
 - Built an end-to-end platform that ingests crowdsource reports and social media feeds to track, visualize, and analyze ocean hazards in near real-time  
 - Designed data pipelines to clean and standardize heterogeneous data sources (user reports, geospatial, social media)  
 - Performed NLP for extracting hazard‐related content from social media posts  
 - Geo-visualization: Mapped hazards to show spatial patterns and risk hot spots  
 - Deployed a dashboard/UI for stakeholders to monitor potential threats and make timely decisions  
 
----
-
-## 🎯 Goals & Interests
-
-- Develop robust ML systems that are explainable, reliable, and scalable  
-- Work on environmental, marine, or climate-related data science problems  
-- Contribute to open source tools / research in ML & AI  
-- Learn more about production deployment, MLOps, and cloud infrastructure  
-
----
-
-## ✅ What I Bring
-
-- Strong analytical mindset, with ability to dissect problems and find data-driven solutions  
-- Proactive learner, always keeping up with new methods, tools & state of the art  
-- Collaborative experience: teamwork, code reviews, clean coding practices  
+### **India Watch**
+*Real-time Indian financial market and defense intelligence dashboard*
+- Built a full-stack platform (FastAPI backend, Next.js frontend) that aggregates live NSE market data, financial news, and defense/geopolitical news in one place
+- Implemented WebSocket-based live price streaming for indices and stocks, backed by server-side caching and parallelized data fetching to keep things fast
+- Built a keyword-filtering pipeline to surface India-defense and international geopolitical news from 10+ RSS sources
+- Designed INDI-X, a proprietary 0–100 market health score combining momentum, sentiment, and volatility
+- Entirely free-tier: yfinance and public RSS feeds, no paid APIs
+- **GitHub**: [india-watch](https://github.com/aaravgit/india-watch)
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-Feel free to reach out to me via:  
-- **LinkedIn**: [Aarav Sharma](https://www.linkedin.com/in/aarav-sharma-a78413320/)  
-- **Email**: *aaravsh241@gmail.com*  
-- **GitHub**: *aaravgit*
-
----
-
-## 🛡 Badges
-
-[![Python](https://img.shields.io/badge/Python-3.9+-blue)](https://www.python.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-/-0.25-green)](https://scikit-learn.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)](https://www.tensorflow.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-1.x-/-2.x-red)](https://pytorch.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-data-analysis-/-manipulation-blueviolet)](https://pandas.pydata.org/)
-[![Git](https://img.shields.io/badge/Git-version_control-/-collaboration-black)](https://git-scm.com/)
-
----
+- **LinkedIn**: [Aarav Sharma]((https://www.linkedin.com/in/aaravsharma2410)/)
+- **Email**: aaravsh241@gmail.com
+- **GitHub**: aaravgit

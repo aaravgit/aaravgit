@@ -32,6 +32,6 @@
 
 ## 📫 Contact
 
-- **LinkedIn**: [Aarav Sharma]((https://www.linkedin.com/in/aaravsharma2410)/)
+- **LinkedIn**: [Aarav Sharma](https://www.linkedin.com/in/aaravsharma2410)
 - **Email**: aaravsh241@gmail.com
 - **GitHub**: aaravgit
